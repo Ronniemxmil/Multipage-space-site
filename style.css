@@ -1,0 +1,44 @@
+* {
+  color:white
+ }
+
+body {
+  background-image: url('https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family:cochin,serif;
+}
+
+h1:first-letter {
+  font-size: 2em;
+}
+
+/* select links inside a nav. set text-decoration: none; and margin: 20px; */
+
+nav a:hover{
+  background-color:green;
+  color:orange;
+}
+
+
+main {
+  text-align: center;
+  width:75%;
+  margin: 0 auto;
+  line-height: 2em;
+}
+
+p {
+  text-align: justify;
+}
+
+img{
+width: 40;
+
+
+  
+}
+
+
+
+ist-style-position: inside; */
